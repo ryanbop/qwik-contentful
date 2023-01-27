@@ -22,7 +22,7 @@ export default component$(() => {
             <span class="text-coral">Identity & Access Admin</span>.
           </h2>
         </div>
-        <TimelineItem date={"Dec 2022 - Now"} title="IAM Product Manager / SME" company="Department of Education (Corporate)">
+        <TimelineItem date={{ start: "Dec 2022", end: "" }} title="IAM Product Manager / SME" company="Department of Education (Corporate)">
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
             vel odio incidunt nostrum odit, amet est architecto consectetur
@@ -30,7 +30,7 @@ export default component$(() => {
             veritatis quam aliquam fugiat.
           </p>
         </TimelineItem>
-        <TimelineItem date={"Oct 2021 - Dec 2022"} title="IAM Operational Support" company="Department of Education (Corporate)">
+        <TimelineItem date={{ start: "Oct 2021", end: "Dec 2022" }} title="IAM Operational Support" company="Department of Education (Corporate)">
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
             vel odio incidunt nostrum odit, amet est architecto consectetur
@@ -38,7 +38,7 @@ export default component$(() => {
             veritatis quam aliquam fugiat.
           </p>
         </TimelineItem>
-        <TimelineItem date={"Feb 2019 - Oct 2021"} title="Onsite Technical Officer" company="Department of Education (School)">
+        <TimelineItem date={{ start: "Feb 2019", end: "Oct 2021" }} title="Onsite Technical Officer" company="Department of Education (School)">
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
             vel odio incidunt nostrum odit, amet est architecto consectetur
@@ -46,7 +46,7 @@ export default component$(() => {
             veritatis quam aliquam fugiat.s
           </p>
         </TimelineItem>
-        <TimelineItem date={"Nov 2017 - Sep 2020"} title="Team Member" company="Coles Supermarkets">
+        <TimelineItem date={{ start: "Nov 2017", end: "Sep 2020" }} title="Team Member" company="Coles Supermarkets">
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
             vel odio incidunt nostrum odit, amet est architecto consectetur
