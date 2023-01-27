@@ -22,7 +22,7 @@ export default component$(() => {
             <span class="text-coral">Identity & Access Admin</span>.
           </h2>
         </div>
-        <TimelineItem date={{ start: "Dec 2022", end: "" }} title="IAM Product Manager / SME" company="Department of Education (Corporate)">
+        <TimelineItem date={{ start: "Dec 2022", end: "Now" }} title="IAM Product Manager / SME" company="Department of Education (Corporate)">
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
             vel odio incidunt nostrum odit, amet est architecto consectetur
