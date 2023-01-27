@@ -1,7 +1,7 @@
 import { component$, Slot } from "@builder.io/qwik";
 
 type ItemProps = {
-  date: number;
+  date: string;
   title: string;
   company: string;
 };

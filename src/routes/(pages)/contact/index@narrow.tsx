@@ -56,7 +56,7 @@ export default component$(() => {
       <h1 class="text-4xl font-bold mb-1">Contact me</h1>
       <p>
         Do you have any questions, concerns or just want to say g'day? Just
-        chuck me an email.
+        bung me an email.
       </p>
       <hr class="my-5" />
 

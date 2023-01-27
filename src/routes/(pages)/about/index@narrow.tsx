@@ -8,6 +8,7 @@ export default component$(() => {
       <div class="max-w-xl">
         <img
           src="/images/me.jpg"
+          // src="https://content.bope.cc/content/Web/bope_profile.JPG"
           class="block w-full rounded-md"
           alt="Ryan Brooks"
         />
