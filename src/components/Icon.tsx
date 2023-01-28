@@ -5,7 +5,7 @@ type IconProps = {
   class?: string;
   viewBox?: string;
   style?: any;
-  size?: "16" | "24" | "32" | "40";
+  size?: "16" | "24" | "32" | "40" | "64";
   name: IconNames;
 };
 
